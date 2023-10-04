@@ -8,5 +8,5 @@ The player can reveal a cell by left-clicking on it and mark a cell as a potenti
 
 The game is successfully completed when all empty cells are uncovered, and all mine locations are correctly marked. After winning or losing, there is a "Play Again" option that allows the player to start a new game.
 
-![Screenshot of My App](https://github.com/Hulyamr13/yourrepo/raw/master/screenshot.png)
+![Screenshot](https://github.com/Hulyamr13/Artificial_Intelligence_with_Python/raw/main/path/to/screenshot.png)
 
